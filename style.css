@@ -1,0 +1,90 @@
+
+div {
+  border-radius: 10px; /* makes div's round */
+  display: inline-block;
+}
+
+body {
+  background: linear-gradient(to bottom,#f8f8f8 0%, #c0c0c0 100%)
+}
+
+h5 {
+  margin-bottom: -10px;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Helvetica";
+}
+
+img {
+  width: 28%;
+  height: 34%;
+  display: block;
+  border-radius:50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Bioheader {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Abril Fatface", cursive;
+  color:#3e7a8e;
+  margin-bottom: -5px;
+}
+#Biotext {
+  font-size: 25px;
+  text-align: center;
+  font-family: "Palatino";
+  color: #3e7a8e;
+}
+#text {
+  color: black;
+  font-size: 15px;
+  margin-left: 3px;
+  margin-top: -10px;
+  font-family: "Helvetica";
+}
+
+#text1 {
+  margin-left: 3px;
+  color: black;
+  text-align: left;
+  font-size: 17px;
+  font-family: "Helvetica";
+  font-weight: bold;
+}
+
+#title {
+  color: #3e7a8e;
+  text-align: center;
+  margin-bottom: -5px;
+  font-family:"Palatino";
+}
+
+#header2 {
+  color: #d5e1df;
+}
+
+#header3 {
+  color: #618685;
+}
+
+#divEducation {
+  background-color: #ffffe6;
+  margin:10px;
+  float: left;
+  width: 30%;
+}
+#divWorkExperience {
+  background-color: #4d99b3;
+  margin: 10px;
+  margin-bottom: -3px;
+  width: 33%
+}
+
+#divSkills {
+  background-color: #ffffe6;
+  margin:10px;
+  float: right;
+  width: 30%;
+}
